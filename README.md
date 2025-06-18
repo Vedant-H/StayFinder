@@ -48,7 +48,7 @@ Follow these steps to get the StayFinder frontend running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_FRONTEND_GITHUB_REPO_URL]
+    git clone https://github.com/Vedant-H/StayFinder.git/front
     cd front # or whatever your frontend folder is named
     ```
 2.  **Install dependencies:**
@@ -60,9 +60,6 @@ Follow these steps to get the StayFinder frontend running on your local machine.
     ```env
     # Example .env file for frontend
     REACT_APP_API_URL=http://localhost:5000/api
-    # If your backend is deployed, use its URL:
-    # REACT_APP_API_URL=[https://your-deployed-backend-api.render.com/api](https://your-deployed-backend-api.render.com/api)
-    ```
     Replace `http://localhost:5000/api` with your actual backend API URL.
 
 ### Running the Application
