@@ -1,6 +1,3 @@
-## **Backend README.md**
-
-```markdown
 # StayFinder Backend API
 
 This is the Node.js and Express.js backend API for the StayFinder full-stack web application. It provides a robust RESTful API for managing user authentication, property listings, and booking reservations, interacting with a MongoDB database.
@@ -34,15 +31,15 @@ This API provides the following functionalities:
 
 ## Technologies Used
 
--   **Node.js:** JavaScript runtime.
--   **Express.js:** Web framework for Node.js.
--   **MongoDB:** NoSQL database for data storage.
--   **Mongoose:** ODM (Object Data Modeling) library for MongoDB and Node.js.
--   **JSON Web Token (JWT):** For secure user authentication.
--   **Bcrypt.js:** For password hashing.
--   **Express Async Handler:** Simple middleware for handling exceptions in Express async routes.
--   **Express Validator:** For request data validation.
--   **Dotenv:** To load environment variables from a `.env` file.
+-   **Node.js**: JavaScript runtime.
+-   **Express.js**: Web framework for Node.js.
+-   **MongoDB**: NoSQL database for data storage.
+-   **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
+-   **JSON Web Token (JWT)**: For secure user authentication.
+-   **Bcrypt.js**: For password hashing.
+-   **Express Async Handler**: Simple middleware for handling exceptions in Express async routes.
+-   **Express Validator**: For request data validation.
+-   **Dotenv**: To load environment variables from a `.env` file.
 
 ---
 
@@ -60,7 +57,7 @@ Follow these steps to set up and run the StayFinder backend API on your local ma
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Vedant-H/StayFinder.git/back
+    git clone [https://github.com/Vedant-H/StayFinder.git/back](https://github.com/Vedant-H/StayFinder.git/back)
     cd back # or whatever your backend folder is named
     ```
 2.  **Install dependencies:**
